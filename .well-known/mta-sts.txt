@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: mx1.purelymail.com
-mx: mx2.purelymail.com
+mx: mailserver.purelymail.com
 max_age: 86400
